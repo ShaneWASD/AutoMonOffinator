@@ -1,3 +1,4 @@
+<img width="2559" height="1439" alt="6" src="https://github.com/user-attachments/assets/a96e2b91-cf54-4cf2-b4c2-2817c50c8d2b" />
 # AutoMonOffinator
 
 **OLED Care Tool – Prevent Screen Burn-in**
@@ -40,9 +41,15 @@ Right‑click the tray icon to access:
 
 ### Configuration Console
 
+<img width="739" height="615" alt="1" src="https://github.com/user-attachments/assets/6513def3-d557-4db8-bb38-d0398edf83e7" />
+
+
 The console provides full control over all dimming modules and system power settings.
 
 #### Basic Parameters
+
+<img width="736" height="606" alt="2" src="https://github.com/user-attachments/assets/4f980908-de88-4c45-93c1-f6ccd774207a" />
+
 
 - **Idle timeout** – time of user inactivity (keyboard, mouse, gamepad) before dimming or monitor turn‑off.  
 - **Check video in browsers** – enables video detection in visible browser windows to prevent dimming while content is playing.  
@@ -61,8 +68,14 @@ The console provides full control over all dimming modules and system power sett
 **Taskbar Dimmer**  
 - Enable/disable, dimming strength (0–100%), width percentage (portion of taskbar to dim), fade‑in/out speeds.
 
+<img width="731" height="614" alt="3" src="https://github.com/user-attachments/assets/34efe7bc-de1e-479d-af28-12f2acc56af7" />
+
+
 **Browser UI Dimmer**  
 - Enable/disable, dimming strength, fade speeds, edge margins (top, bottom, left, right in pixels), and a list of browser processes to exclude.
+
+<img width="701" height="615" alt="4" src="https://github.com/user-attachments/assets/7423ca66-299a-4f47-878e-99b0762be69e" />
+
 
 **Screen Dimmer** (idle dimming)  
 - Enable/disable, dimming strength, idle timeout (in minutes), fade speeds, and option to check video in browsers.  
@@ -73,10 +86,16 @@ The console provides full control over all dimming modules and system power sett
 - **Additional video processes** – extra process names that should be treated as video sources (e.g., custom media players).  
 - **Excluded processes** – processes that prevent screen dimming from activating.
 
+<img width="737" height="614" alt="5" src="https://github.com/user-attachments/assets/ba024795-1432-4bdb-8af0-2c65ef14ffcf" />
+
+
 **App UI Dimmer**  
 - Enable/disable, and manage **profiles** for individual applications.  
 - Each profile defines a process name, dimming strength, fade speeds, and **layers**.  
 - A layer consists of margins (top, bottom, left, right) that create dimmed bands around the window. Multiple layers can be stacked, and hovering over any layer makes it transparent together with all higher layers – perfect for toolbars or side panels.
+
+<img width="651" height="588" alt="7" src="https://github.com/user-attachments/assets/a08b1aa1-4a13-4dfe-b846-b235ab7438f5" />
+
 
 #### Additional Actions
 
